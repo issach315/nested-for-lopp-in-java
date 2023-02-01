@@ -50,6 +50,15 @@ public class Program1
         int i=6 i<=5 condition :false
      
      */
+        
+        /*
+        Output :
+                     * * * * *
+                     * * * * *
+                     * * * * *
+                     * * * * *
+                     * * * * *
+        */
     
         
     }
